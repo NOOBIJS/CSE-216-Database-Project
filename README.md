@@ -1,5 +1,5 @@
 # CSE-216-Database-Project
-Hospital Management System
+# Hospital Management System
 This is a Database Management Project for a Hospital Management System, created as part of our 2-1 semester course.
 
 📋 Features
