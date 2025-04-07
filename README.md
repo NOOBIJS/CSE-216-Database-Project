@@ -16,7 +16,7 @@ Database management with SQL
 🛠️ Technologies Used
 HTML, CSS, JavaScript
 
-MySQL
+Oracle SQL
 
 ⚙️ How to Use
 Import the .sql file to your MySQL server.
